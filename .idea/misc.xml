@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="jsonEditor">
+    <option name="stateMap">
+      <map>
+        <entry key="JsonDemo" value="{&#10;  &quot;description&quot;:&quot;kurze Beschreibung&quot;,&#10;  &quot;isUser&quot;:true,&#10;  &quot;empty&quot;:null,&#10;  &quot;since&quot;:1980,&#10;  &quot;version&quot;:2.55,&#10;  &quot;users&quot;:[&#10;    {&#10;      &quot;name&quot;:&quot;Frank&quot;,&#10;      &quot;job&quot;:&quot;Dozent&quot;,&#10;      &quot;age&quot;:52,&#10;      &quot;city&quot;:&quot;Berlin&quot;,&#10;      &quot;hobbys&quot;:[&#10;        &quot;programmieren&quot;,&#10;        &quot;lesen&quot;,&#10;        &quot;fotografieren&quot;,&#10;        null&#10;      ],&#10;      &quot;phone&quot;:{&#10;        &quot;private&quot;:&quot;0000000&quot;,&#10;        &quot;office&quot;:&quot;0000000&quot;,&#10;        &quot;mobile&quot;:&quot;0000000&quot;&#10;      }&#10;    },&#10;    {&#10;      &quot;name&quot;:&quot;Hans&quot;,&#10;      &quot;age&quot;:52,&#10;      &quot;city&quot;:&quot;Berlin&quot;,&#10;      &quot;hobbys&quot;:[&#10;        &quot;programmieren&quot;,&#10;        &quot;lesen&quot;,&#10;        &quot;fotografieren&quot;&#10;      ],&#10;      &quot;phone&quot;:{&#10;        &quot;private&quot;:&quot;0000000&quot;,&#10;        &quot;office&quot;:&quot;0000000&quot;,&#10;        &quot;mobile&quot;:&quot;0000000&quot;&#10;      },&#10;      &quot;job&quot;:&quot;Bäcker&quot;&#10;    },&#10;    {&#10;      &quot;name&quot;:&quot;Peter&quot;,&#10;      &quot;age&quot;:52,&#10;      &quot;city&quot;:&quot;Berlin&quot;,&#10;      &quot;hobbys&quot;:[&#10;        &quot;programmieren&quot;,&#10;        &quot;lesen&quot;,&#10;        &quot;fotografieren&quot;&#10;      ],&#10;      &quot;phone&quot;:{&#10;        &quot;private&quot;:&quot;0000000&quot;,&#10;        &quot;office&quot;:&quot;0000000&quot;,&#10;        &quot;mobile&quot;:&quot;0000000&quot;&#10;      }&#10;    },&#10;    {&#10;      &quot;name&quot;:&quot;Thomas&quot;,&#10;      &quot;age&quot;:52,&#10;      &quot;city&quot;:&quot;Berlin&quot;,&#10;      &quot;hobbys&quot;:[&#10;        &quot;programmieren&quot;,&#10;        &quot;lesen&quot;,&#10;        &quot;fotografieren&quot;&#10;      ],&#10;      &quot;phone&quot;:{&#10;        &quot;private&quot;:&quot;0000000&quot;,&#10;        &quot;office&quot;:&quot;0000000&quot;,&#10;        &quot;mobile&quot;:&quot;0000000&quot;&#10;      }&#10;    }&#10;  ]&#10;}" />
+      </map>
+    </option>
+  </component>
+</project>
