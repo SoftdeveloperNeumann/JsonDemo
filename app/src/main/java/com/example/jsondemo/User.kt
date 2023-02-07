@@ -1,6 +1,6 @@
 package com.example.jsondemo
 
-
+import com.google.gson.annotations.SerializedName
 
 
 data class Liste(
@@ -13,8 +13,9 @@ data class Liste(
 )
 
 data class User(
-    val name:String?,
-    val job:String?,
+    @SerializedName(value =  "name")
+    val userName:String?,
+//    val job:String?,
     val age : Int?,
     val city: String?,
     val hobbys : ArrayList<String?>,
